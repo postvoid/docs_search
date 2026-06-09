@@ -14,7 +14,7 @@
 
 ```bash
 # 1. Клонировать проект
-cd testovoe_aton2
+cd docs_search
 
 # 2. Создать виртуальное окружение
 python -m venv venv
